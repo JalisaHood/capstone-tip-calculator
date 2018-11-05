@@ -1,0 +1,21 @@
+body{
+font-size: 1.5em;
+width:100%;
+margin: 0 auto;
+letter-spacing: center;
+}
+
+h1{
+    text-align: center;
+    color: blanchedalmond;
+    font-family: cursive;
+}
+
+.container{
+    padding: 1.5em;
+    background:linear-gradient( -45deg, pink, lightsalmon, red);
+    border-radius: 10px;
+}
+div{
+    line-height: 2.5em;
+}
